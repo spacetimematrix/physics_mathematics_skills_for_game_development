@@ -1,2 +1,2 @@
-# physics_mathematics_skills_for_game_development
+# physics_mathematics_skills_for_unity_game_development
 physics_mathematics_skills_for_unity_game_development
