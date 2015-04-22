@@ -1,4 +1,4 @@
-# physics_mathematics_skills_for_unity_game_development
+# Unity游戏开发的数学和物理
 
 初衷：最近在看《游戏开发的数学和物理》[日]加藤洁*著  徐谦*译 这本书。
 			书中的很多例子是DX，代码C++实现；而最近一直在做Unity游戏，就
